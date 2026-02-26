@@ -1,0 +1,8 @@
+body {
+    background-color: chartreuse;
+    border-width: 20px;
+    border-color: green;
+    border-style: solid;
+    padding: 0;
+    margin: 0;
+}
